@@ -1,9 +1,9 @@
 {
-	"name": "symbols",
-	"displayName": "Symbols",
+	"name": "symbolsnicovy",
+	"displayName": "Symbols Icons",
 	"description": "A simple file icon theme for VS Code",
 	"version": "0.0.22",
-	"publisher": "miguelsolorio",
+	"publisher": "nicovy",
 	"icon": "symbols.png",
 	"preview": true,
 	"main": "./src/extension.js",
@@ -21,7 +21,7 @@
 		"url": "https://github.com/miguelsolorio/vscode-symbols/issues"
 	},
 	"author": {
-		"name": "Miguel Solorio"
+		"name": "Nicolas Veas"
 	},
 	"capabilities": {
 		"untrustedWorkspaces": {
