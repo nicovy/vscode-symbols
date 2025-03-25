@@ -4,9 +4,18 @@
 
 # Symbols
 
+##
+
+Forked from https://github.com/nicovy/vscode-symbols?tab=readme-ov-file
+
+-  Removed folders arrows
+-  Added folders open/closed icons
+
+##
+
 A file icon for VS Code
 
-![Preview of extension](https://github.com/misolori/vscode-symbols/raw/main/preview.png)
+![Preview of extension](https://github.com/nicovy/vscode-symbols/raw/main/preview.png)
 
 </div>
 
@@ -72,6 +81,7 @@ _Note: For file names, you can use `*` to match all files with a specific file e
 You can preview the icons by reading the the [preview.md](./preview/preview.md) file.
 
 ## React Symbols
+
 [Pablo Hdez](https://github.com/pheralb) has graciously created [React-Symbols](https://react-symbols.vercel.app) ([pheralb/react-symbols](https://github.com/pheralb/react-symbols)) to allow you to embed Symbol icons for your React projects.
 
 <img src="https://raw.githubusercontent.com/pheralb/react-symbols/main/website/public/images/og.png">
